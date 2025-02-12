@@ -43,14 +43,14 @@
 <br>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiprotichabiud&layout=compact&show_icon=true&theme=algolia" alt="kiprotichabiud-langs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=kiprotichabiud&layout=compact&show_icon=true&theme=algolia" alt="kiprotichabiud-stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kiprotichabiud&theme=default&show_icons=true&hide_border=true&count_private=true" alt="kiprotichabiud-langs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiprotichabiud&theme=default&show_icons=true&hide_border=true&layout=compact)" alt="kiprotichabiud-stats"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiprotichabiud&theme=algolia&background=0d1117&hide_border=true" alt="kiprotichabiud-streak"/>
+  <img src="https://streak-stats.demolab.com?user=kiprotichabiud&theme=default&hide_border=true)" alt="kiprotichabiud-streak"/>
 </div>
 
 <br>
