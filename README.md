@@ -44,7 +44,7 @@
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kiprotichabiud&theme=default&show_icons=true&hide_border=true&count_private=true" alt="kiprotichabiud-langs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiprotichabiud&theme=default&show_icons=true&hide_border=true&layout=compact)" alt="kiprotichabiud-stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiprotichabiud&theme=default&show_icons=true&hide_border=true&layout=compact" alt="kiprotichabiud-stats"/>
 </div>
 
 <br>
