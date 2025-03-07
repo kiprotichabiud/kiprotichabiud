@@ -2,7 +2,7 @@
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/kiprotichabiud?style=social"> &nbsp;&nbsp; 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=kiprotichabiud" />
 
-<h1 align="center">👋 Hi, I'm Kiprotich Abiud <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<h1 align="center">👋 Hi, I'm Kiprotich <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 
 <p align="center">
 <a href="https://github.com/kiprotichabiud">
